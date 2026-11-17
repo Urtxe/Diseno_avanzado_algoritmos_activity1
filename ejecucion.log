@@ -1,0 +1,17 @@
+OK: 37 casos x 3 algoritmos = 111 comprobaciones.
+{'caso': 'P1', 'longitud_cadena': 10, 'version': 'A', 'cpu_mediana_s': 0.002896, 'mem_pico_mib': 0.001005, 'longitud_lcs': 4, 'estado': 'OK'}
+{'caso': 'P1', 'longitud_cadena': 10, 'version': 'B', 'cpu_mediana_s': 4.7e-05, 'mem_pico_mib': 0.001067, 'longitud_lcs': 4, 'estado': 'OK'}
+{'caso': 'P1', 'longitud_cadena': 10, 'version': 'C', 'cpu_mediana_s': 2.4e-05, 'mem_pico_mib': 0.001195, 'longitud_lcs': 4, 'estado': 'OK'}
+{'caso': 'P2', 'longitud_cadena': 14, 'version': 'A', 'cpu_mediana_s': 0.520471, 'mem_pico_mib': 0.001576, 'longitud_lcs': 5, 'estado': 'OK'}
+{'caso': 'P2', 'longitud_cadena': 14, 'version': 'B', 'cpu_mediana_s': 6.8e-05, 'mem_pico_mib': 0.001264, 'longitud_lcs': 5, 'estado': 'OK'}
+{'caso': 'P2', 'longitud_cadena': 14, 'version': 'C', 'cpu_mediana_s': 3.6e-05, 'mem_pico_mib': 0.002035, 'longitud_lcs': 5, 'estado': 'OK'}
+{'caso': 'P3', 'longitud_cadena': 18, 'version': 'A', 'cpu_mediana_s': 0.581656, 'mem_pico_mib': 0.00223, 'longitud_lcs': 11, 'estado': 'OK'}
+{'caso': 'P3', 'longitud_cadena': 18, 'version': 'B', 'cpu_mediana_s': 9.9e-05, 'mem_pico_mib': 0.001421, 'longitud_lcs': 11, 'estado': 'OK'}
+{'caso': 'P3', 'longitud_cadena': 18, 'version': 'C', 'cpu_mediana_s': 4.8e-05, 'mem_pico_mib': 0.003246, 'longitud_lcs': 11, 'estado': 'OK'}
+{'caso': 'P4', 'longitud_cadena': 128, 'version': 'A', 'cpu_mediana_s': '', 'mem_pico_mib': '', 'longitud_lcs': '', 'estado': 'TIEMPO_AGOTADO'}
+{'caso': 'P4', 'longitud_cadena': 128, 'version': 'B', 'cpu_mediana_s': 0.002588, 'mem_pico_mib': 0.003489, 'longitud_lcs': 82, 'estado': 'OK'}
+{'caso': 'P4', 'longitud_cadena': 128, 'version': 'C', 'cpu_mediana_s': 0.001812, 'mem_pico_mib': 0.1338, 'longitud_lcs': 82, 'estado': 'OK'}
+{'caso': 'P5', 'longitud_cadena': 1024, 'version': 'A', 'cpu_mediana_s': '', 'mem_pico_mib': '', 'longitud_lcs': '', 'estado': 'TIEMPO_AGOTADO'}
+{'caso': 'P5', 'longitud_cadena': 1024, 'version': 'B', 'cpu_mediana_s': 0.161465, 'mem_pico_mib': 0.058966, 'longitud_lcs': 666, 'estado': 'OK'}
+{'caso': 'P5', 'longitud_cadena': 1024, 'version': 'C', 'cpu_mediana_s': 0.138398, 'mem_pico_mib': 12.089328, 'longitud_lcs': 666, 'estado': 'OK'}
+Resultados guardados en /mnt/data/Actividad1_LCS_codigo/resultados.csv
